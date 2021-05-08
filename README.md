@@ -19,6 +19,8 @@ Additionally, I have added data for US States from [this site](https://abbreviat
 
 csv [file here](https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv)
 
+[py file](https://github.com/NicJC/Datasets/blob/main/US_Arrests.py)
+
 The Arrests.csv data has had years 2013 to 2019 appended into one csv file.
 
 The dataset is published under the [open data](https://creativecommons.org/about/program-areas/open-data/) license from [Metropolitan Police Department](https://mpdc.dc.gov/page/open-data-mpd)
