@@ -16,7 +16,7 @@ Created by Nic Coxen
 
 <B><H2>Arrests Data</h2></B>
 
-csv [file here]()
+csv [file here](https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv)
 
 The Arrests.csv data is from the [site](https://mpdc.dc.gov/sites/default/files/dc/sites/mpdc/publication/attachments/)
 
