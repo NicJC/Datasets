@@ -15,7 +15,7 @@ Additionally, I have added data for US States from [this site](https://abbreviat
 
 <B><H2>Arrests Data</h2></B>
 
-csv [file here](https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv)
+csv [file here](https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv) . Use pandas read_csv(<- this url) for python or copyy all and paste as a csv file.
 
 The Arrests.csv data has had years 2013 to 2019 appended into one csv file.
 
