@@ -5,6 +5,8 @@ Data for your projects
 
 csv [file here](https://github.com/NicJC/Datasets/blob/main/Police.csv)
 
+[py File](https://github.com/NicJC/Datasets/blob/main/Police.py)
+
 The police data-set is a combination of data from [this site](https://github.com/washingtonpost/data-police-shootings) 
 
 The dataset is published under https://creativecommons.org/licenses/by-nc-sa/4.0/
