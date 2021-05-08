@@ -14,3 +14,12 @@ Additionally, I have added data for US States from [this site](https://abbreviat
 Created by Nic Coxen
 
 
+<B><H2>Arrests Data</h2></B>
+
+csv [file here]()
+
+The Arrests.csv data is from the [site](https://mpdc.dc.gov/sites/default/files/dc/sites/mpdc/publication/attachments/)
+
+The dataset is published under the [open data](https://creativecommons.org/about/program-areas/open-data/) license from [Metropolitan Police Department](https://mpdc.dc.gov/page/open-data-mpd)
+
+Created by Nic Coxen
