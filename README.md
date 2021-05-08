@@ -15,11 +15,20 @@ Additionally, I have added data for US States from [this site](https://abbreviat
 
 <B><H2>Arrests Data</h2></B>
 
-csv [file here](https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv) . Use pandas read_csv(<- this url) for python or copyy all and paste as a csv file.
+csv [file here](https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv)
 
 The Arrests.csv data has had years 2013 to 2019 appended into one csv file.
 
 The dataset is published under the [open data](https://creativecommons.org/about/program-areas/open-data/) license from [Metropolitan Police Department](https://mpdc.dc.gov/page/open-data-mpd)
+
+<B><h3><i>To download the data:</i></h3><B>
+
+For python - Use pandas' arrests = pd.read_csv("above url")  
+
+For R - arrests <- read.table("https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv", header = FALSE,sep = ",") 
+                 
+As a csv file - copy all and paste into an Excel file and save as csv.
+
 
 Created by Nic Coxen
 
