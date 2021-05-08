@@ -18,7 +18,7 @@ Created by Nic Coxen
 
 csv [file here](https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv)
 
-The Arrests.csv data is from the [site](https://mpdc.dc.gov/sites/default/files/dc/sites/mpdc/publication/attachments/)
+The Arrests.csv data has had years 2013 to 2019 appended into one csv file.
 
 The dataset is published under the [open data](https://creativecommons.org/about/program-areas/open-data/) license from [Metropolitan Police Department](https://mpdc.dc.gov/page/open-data-mpd)
 
