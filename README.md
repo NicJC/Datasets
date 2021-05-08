@@ -11,7 +11,6 @@ The dataset is published under https://creativecommons.org/licenses/by-nc-sa/4.0
 
 Additionally, I have added data for US States from [this site](https://abbreviations.yourdictionary.com/articles/state-abbrev.html)
 
-Created by Nic Coxen
 
 
 <B><H2>Arrests Data</h2></B>
@@ -23,3 +22,9 @@ The Arrests.csv data has had years 2013 to 2019 appended into one csv file.
 The dataset is published under the [open data](https://creativecommons.org/about/program-areas/open-data/) license from [Metropolitan Police Department](https://mpdc.dc.gov/page/open-data-mpd)
 
 Created by Nic Coxen
+
+<br>
+
+<p><img src="avatar.jpg" alt="Nic Coxen" > </p>
+
+</br>
