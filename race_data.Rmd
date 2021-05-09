@@ -1,10 +1,4 @@
----
-title: "Police Arrests"
-author: "Nic Coxen"
-output: html_document
----
 
-```{r setup, include=FALSE}
 library(reticulate)
 knitr::opts_chunk$set(echo = FALSE)
 knitr::knit_engines$set(python = reticulate::eng_python)
@@ -33,34 +27,19 @@ library(ggpubr)
 library(lattice)
 library(dplyr)
 library(imager)
-```
 
-```{r}
 arrests <- read.table("https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv", 
                   header = TRUE,
                  sep = ",")
 
-```
-
-```{r}
 head(arrests)
-```
 
-
-```{r}
 plot(arrests$Year,arrests$Age, xlab = "Year", ylab = "Age" )
 
-```
-```{r}
-```
-
-
-```{r}
 ggplot(data=arrests,aes(x=Category,y=Year,color=Sex))+ geom_line() + geom_point(size=2)
-```
-```{r}
+
 boxplot(arrests$Age,horizontal=T,main="Age of Arrested",xlab="Age")
-```
+
 
 
 
