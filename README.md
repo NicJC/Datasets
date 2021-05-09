@@ -27,7 +27,7 @@ The dataset is published under the [open data](https://creativecommons.org/about
 
 <B><h3><i>To download the data:</i></h3><B>
 
-For python - Use pandas' arrests = pd.read_csv("above url")  
+For python - Use pandas' arrests = pd.read_csv("above url")  [python example](https://github.com/NicJC/Datasets/blob/main/Police%20Shootings.ipynb)
 
 For R - arrests <- read.table("https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv", header = FALSE,sep = ",") 
 
