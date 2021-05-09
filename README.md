@@ -31,7 +31,7 @@ For python - Use pandas' arrests = pd.read_csv("above url")  [python example](ht
 
 For R - arrests <- read.table("https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv", header = FALSE,sep = ",") 
 
-For Julia -  using DataFrames,UrlDownload; -> url = "https://raw.githubusercontent.com/NicJC/Datasets/main/Police.csv"  -> police = urldownload(url) |> DataFrame
+For Julia -  using DataFrames,UrlDownload; -> url = "https://raw.githubusercontent.com/NicJC/Datasets/main/Police.csv"  -> police = urldownload(url) |> DataFrame [Julia example]()
                  
 As a csv file - copy all and paste into an Excel file and save as csv.
 
