@@ -29,7 +29,7 @@ The dataset is published under the [open data](https://creativecommons.org/about
 
 For python - Use pandas' arrests = pd.read_csv("above url")  [python example](https://github.com/NicJC/Datasets/blob/main/Police%20Shootings.ipynb)
 
-For R - arrests <- read.table("https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv", header = FALSE,sep = ",") 
+For R - arrests <- read.table("https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv", header = FALSE,sep = ",") R [example](https://github.com/NicJC/Datasets/blob/main/ggplot%20for%20police%20data.ipynb) file.
 
 For Julia -  using DataFrames,UrlDownload; -> url = "https://raw.githubusercontent.com/NicJC/Datasets/main/Police.csv"  -> police = urldownload(url) |> DataFrame [Julia example](https://github.com/NicJC/Datasets/blob/main/julia%20-%20Police%20Shootings.ipynb)
                  
