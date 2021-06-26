@@ -11,7 +11,7 @@
 
 Data for your projects
 
-<B><h2>police dataset</h2></B>
+<B><h2>Police dataset</h2></B>
 
 csv [file here](https://github.com/NicJC/Datasets/blob/main/Police.csv)
 
