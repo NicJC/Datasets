@@ -11,7 +11,7 @@
 
 Data for your projects
 
-<B><h2>police data-set</h2></B>
+<B><h2>police dataset</h2></B>
 
 csv [file here](https://github.com/NicJC/Datasets/blob/main/Police.csv)
 
@@ -25,7 +25,7 @@ Additionally, I have added data for US States from [this site](https://abbreviat
 
 
 
-<B><H2>Arrests Data</h2></B>
+<B><H2>Arrests Dataset</h2></B>
 
 csv [file here](https://raw.githubusercontent.com/NicJC/Datasets/main/Arrests.csv)
 
