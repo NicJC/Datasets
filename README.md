@@ -52,6 +52,6 @@ Created by Nic Coxen
 
 <p><img src="avatar.jpg" alt="Nic Coxen" > </p>
   
-  [Go to Jupyter notebook](https://hub.gke2.mybinder.org/user/nicjc-datasets-hs608vtn/notebooks/Police%20Shootings.ipynb)
+
 
 </br>
