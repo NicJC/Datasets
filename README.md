@@ -51,5 +51,7 @@ Created by Nic Coxen
 <br>
 
 <p><img src="avatar.jpg" alt="Nic Coxen" > </p>
+  
+  https://hub.gke2.mybinder.org/user/nicjc-datasets-hs608vtn/notebooks/Police%20Shootings.ipynb
 
 </br>
