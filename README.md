@@ -50,6 +50,11 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   The repo is [here](https://github.com/NicJC/UFC)
   
   and the [data](https://raw.githubusercontent.com/NicJC/UFC/main/ufc.csv)
+  
+  
+* <B><h2>Coronavirus dataset</h2></B>
+  
+  [data](https://raw.githubusercontent.com/NicJC/Julia-Plots/main/data.csv) (data is static)
 
 
 Created by Nic Coxen
