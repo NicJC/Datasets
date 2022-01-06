@@ -50,6 +50,13 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   [data](https://raw.githubusercontent.com/NicJC/Julia-Plots/main/data.csv) (data is static)
   
   
+* <B><h2>Fires dataset</h2></B>
+  
+  The fire data is [here](https://raw.githubusercontent.com/NicJC/Fires/main/fires.csv)
+  
+  and the repo is [here](https://github.com/NicJC/Fires)
+  
+  
 <hr>
 
 
