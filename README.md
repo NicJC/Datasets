@@ -56,6 +56,11 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   
   and the repo is [here](https://github.com/NicJC/Fires)
   
+* <B><h2>Gun Violence dataset</h2></B>
+  
+  The Gun violence [Repo](https://github.com/NicJC/Gun-Violence)
+  
+  and the [data](https://raw.githubusercontent.com/NicJC/Gun-Violence/main/gun.csv)
   
 <hr>
 
