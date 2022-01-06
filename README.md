@@ -47,7 +47,9 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   
 * <B><h2>UFC dataset</h2></B>
   
-  [here](https://github.com/NicJC/UFC)
+  The repo is [here](https://github.com/NicJC/UFC)
+  
+  and the [data](https://raw.githubusercontent.com/NicJC/UFC/main/ufc.csv)
 
 
 Created by Nic Coxen
