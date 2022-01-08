@@ -64,7 +64,9 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   
 *  <B><h2>Energy transition dataset</h2></B>
   
-  Energy transition data is available [here](https://github.com/NicJC/Energy_transition)
+  Energy transition repo is located [here](https://github.com/NicJC/Energy_transition)
+  
+  and [data](https://raw.githubusercontent.com/NicJC/Energy_transition/master/EnergyTransition.csv)!
   
 <hr>
 
