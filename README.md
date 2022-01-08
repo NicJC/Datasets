@@ -62,7 +62,7 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   
   and the [data](https://raw.githubusercontent.com/NicJC/Gun-Violence/main/gun.csv)
   
-*  <B><h2>Energy transition dataset</h2></B>
+* <B><h2>Energy transition dataset</h2></B>
   
   Energy transition repo is located [here](https://github.com/NicJC/Energy_transition)
   
