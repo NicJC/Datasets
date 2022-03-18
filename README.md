@@ -45,9 +45,9 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   and the [data](https://raw.githubusercontent.com/NicJC/UFC/main/ufc.csv)
   
   
-* <B><h2>Coronavirus dataset</h2></B>
+* <B><h2>Coronavirus dataset ~ Julia version</h2></B>
   
-  [data](https://raw.githubusercontent.com/NicJC/Julia-Plots/main/data.csv) (data is static)
+  [data](https://raw.githubusercontent.com/NicJC/Julia-Plots/main/data.csv)
   
   
 * <B><h2>Fires dataset</h2></B>
