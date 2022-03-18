@@ -45,7 +45,9 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   and the [data](https://raw.githubusercontent.com/NicJC/UFC/main/ufc.csv)
   
   
-* <B><h2>Coronavirus dataset ~ Julia version</h2></B>
+* <B><h2>Coronavirus dataset ~ Julia version & Gadfly plotting</h2></B>
+  
+  [repo](https://github.com/NicJC/Julia-Plots)
   
   [data](https://raw.githubusercontent.com/NicJC/Julia-Plots/main/data.csv)
   
