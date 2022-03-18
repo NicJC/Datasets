@@ -68,7 +68,13 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   
   and [data](https://raw.githubusercontent.com/NicJC/Energy_transition/master/EnergyTransition.csv)!
   
+*<B><h2>Coronavirus vacinations</h2></B>
+  
+  Covid vaccinations [repo](https://github.com/NicJC/Coronavirus)
+  
 <hr>
+  
+  
 
 
 Created by Nic Coxen
