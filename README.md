@@ -76,6 +76,12 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   
   [data](https://raw.githubusercontent.com/NicJC/Coronavirus/main/covid.csv)
   
+* <B><h2>UK Arrests</h2></B>
+  
+  UK Arrests [repo](https://github.com/NicJC/UK_Arrests)
+  
+  [data](https://raw.githubusercontent.com/NicJC/UK_Arrests/main/UKArrests.csv)
+  
 <hr>
   
   
