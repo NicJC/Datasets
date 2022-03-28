@@ -82,6 +82,11 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   
   [data](https://raw.githubusercontent.com/NicJC/UK_Arrests/main/UKArrests.csv)
   
+  
+* <b><h2>Bike Sharing</h2></b>
+  
+  Repo : [here](https://github.com/NicJC/Bike-Sharing)
+  
 <hr>
   
   
