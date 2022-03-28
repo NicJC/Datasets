@@ -87,6 +87,8 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   
   Repo : [here](https://github.com/NicJC/Bike-Sharing)
   
+  [data](https://raw.githubusercontent.com/NicJC/Bike-Sharing/main/bikerentals.csv)
+  
 <hr>
   
   
