@@ -89,6 +89,13 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   
   [data](https://raw.githubusercontent.com/NicJC/Bike-Sharing/main/bikerentals.csv)
   
+  
+* <b><h2>Sales Data</h2></b>
+  
+  [data](https://raw.githubusercontent.com/NicJC/Country-Sales/main/Country_Sales.csv)
+  
+  
+  
 <hr>
   
   
