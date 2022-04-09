@@ -101,6 +101,8 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   
   [repo](https://github.com/NicJC/SFFD)
   
+  [data](https://raw.githubusercontent.com/NicJC/SFFD/main/San%20Francisco%20Fire%20Dept.csv)
+  
 <hr>
   
   
