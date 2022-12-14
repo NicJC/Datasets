@@ -118,9 +118,9 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   
  * <h2><b>Hate Crime</b></h2>  
   
-   [data](https://raw.githubusercontent.com/NicJC/HateCrimes/main/hate_crime.csv)
+   csv [data](https://raw.githubusercontent.com/NicJC/HateCrimes/main/hate_crime.csv)
   
-    csv [repo](https://github.com/NicJC/HateCrimes)
+    [repo](https://github.com/NicJC/HateCrimes)
   
 <hr>
   
