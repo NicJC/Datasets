@@ -116,11 +116,11 @@ As a csv file - copy all and paste into an Excel file and save as csv.
   
   csv [data](https://raw.githubusercontent.com/NicJC/Marijuana-Arrests/main/Marijuana%20Arrests.csv)
   
- * <h2><b>Hare Crime</b></h2> 
- 
-  csv [repo](https://github.com/NicJC/HateCrimes)
+ * <h2><b>Hare Crime</b></h2>  
   
-  [data](https://raw.githubusercontent.com/NicJC/HateCrimes/main/hate_crime.csv)
+   [data](https://raw.githubusercontent.com/NicJC/HateCrimes/main/hate_crime.csv)
+  
+    csv [repo](https://github.com/NicJC/HateCrimes)
   
 <hr>
   
